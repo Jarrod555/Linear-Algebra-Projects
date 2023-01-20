@@ -1,1 +1,1 @@
-# Linear-Algerbra-Projects
+# Linear-Algebra-Projects
