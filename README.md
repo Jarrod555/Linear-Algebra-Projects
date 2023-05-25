@@ -12,7 +12,7 @@ https://github.com/Jarrod555/Linear-Algerbra-Projects/blob/main/Take_Home_Exam_1
 4.) Gram-Schmidt Orthonormalization 
 https://github.com/Jarrod555/Linear-Algebra-Projects/blob/main/Gram_Schmidt_Orthonormalization.ipynb
 
-5.) Singular Value Decomposition with Eigenvalues and Eigenvectors - RGB colors
+5.) Singular Value Decomposition with Eigenvalues and Eigenvectors 
 https://github.com/Jarrod555/Linear-Algebra-Projects/blob/main/RGB_color_project_Impact_of_Eigenvalues_for_non_square_matrices.ipynb
 
 6.) Orthonormal Basis in Function Spaces
