@@ -1,7 +1,7 @@
 # Linear-Algebra-Projects
 
 1.) Gaussian Elimination 
-[[https://github.com/Jarrod555/Linear-Algerbra-Projects/blob/main/Copy_of_Math_242_solve_systems_using_computation_and_rref.ipynb]]
+[https://github.com/Jarrod555/Linear-Algerbra-Projects/blob/main/Copy_of_Math_242_solve_systems_using_computation_and_rref.ipynb](https://github.com/Jarrod555/Linear-Algebra-Projects/blob/main/Solve_systems_using_computation_and_rref.ipynb)
 
 2.) Transition Matrices
 https://github.com/Jarrod555/Linear-Algebra-Projects/blob/main/Modeling_Ski_Hills_With_Transition_Matrices_and_Markov_Chains.ipynb
