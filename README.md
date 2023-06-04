@@ -7,7 +7,7 @@
 https://github.com/Jarrod555/Linear-Algebra-Projects/blob/main/Modeling_Ski_Hills_With_Transition_Matrices_and_Markov_Chains.ipynb
 
 3.) Modeling Drug Movement with Markov Chains
-[https://github.com/Jarrod555/Linear-Algerbra-Projects/blob/main/Take_Home_Exam_1_Drug_Markov_Chain_Problem_.ipynb]
+[[https://github.com/Jarrod555/Linear-Algerbra-Projects/blob/main/Take_Home_Exam_1_Drug_Markov_Chain_Problem_.ipynb]](https://github.com/Jarrod555/Linear-Algebra-Projects/blob/main/Modeling%20Drug%20Movement%20with%20matrices.ipynb)
 
 4.) Gram-Schmidt Orthonormalization 
 [https://github.com/Jarrod555/Linear-Algebra-Projects/blob/main/Gram_Schmidt_Orthonormalization.ipynb]
